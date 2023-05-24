@@ -2,7 +2,7 @@ public class Main {
     public static void main(String[] args) {
 
         Queue queue = new Queue();
-        queue.put("Chris");
+        queue.put("Christopher");
         queue.put("Straface");
         queue.put("Hernandez");
         Object name1 = queue.get();
